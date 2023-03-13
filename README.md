@@ -24,6 +24,7 @@
   <a href="https://www.linkedin.com/in/marcelo-da-silva-cardoso-aa5444179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/msccardoso/msccardoso/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/msccardoso/projeto-novo-the-last-of-us/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
